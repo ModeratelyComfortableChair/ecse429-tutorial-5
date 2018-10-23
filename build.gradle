@@ -3,6 +3,7 @@ plugins {
 }
 apply plugin: 'org.sonarqube'
 
+
 allprojects {
     apply plugin: 'eclipse'
     apply plugin: 'idea'

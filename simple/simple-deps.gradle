@@ -1,3 +1,4 @@
 dependencies {
     testImplementation 'junit:junit:4.+'
+    implementation 'org.evosuite:evosuite-standalone-runtime:1.0.6'
 }
